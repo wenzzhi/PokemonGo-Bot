@@ -1,7 +1,7 @@
 {
-"accountType":"Account Typ:",
-"username":"Benutzername:",
-"password":"Password:",
+"accountType":"账号类型:",
+"username":"账号:",
+"password":"密码:",
 "locationSettings":"Standort Einstellungen",
 "speed":"Geschw.:",
 "moveRadius":"Radius:",
